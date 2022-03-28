@@ -1,0 +1,9 @@
+{
+	"cliente": {
+        "environment":"exemplo",
+		"vtexAppKey": "exemplo",
+		"vtexAppToken": "exemplo"
+		
+	}
+
+}
